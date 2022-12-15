@@ -13,6 +13,14 @@ body {
   font-size: clamp(.5rem, 2.5vmin, 1.5rem);
 }
 
+.aloha {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: burlywood;
+    font-size: 1.2em;
+}
+
 .keyboard {
   display: grid;
   grid-template-columns: repeat(20, minmax(auto, 1.25em));
