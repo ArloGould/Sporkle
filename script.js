@@ -10209,6 +10209,7 @@ const dictionary = [
   "samey",
   "samfu",
   "sammy",
+  "samoa",
   "sampi",
   "samps",
   "sands",
