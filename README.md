@@ -1,4 +1,4 @@
-# wordle-hicks-1215
+# wordle-template-1215
 
 Make your own Wordle with a custom answer like this!
 
